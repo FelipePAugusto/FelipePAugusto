@@ -35,13 +35,13 @@ But, I also used it in projects:
 
 :mortar_board: I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). 
 
-I also love **UX Design** too :heart_eyes:. I like to create beautiful interfaces to provide the user with a great experience. Currently, to create prototypes I use **Figma**.
+I also love work with **Serverless AWS** too :heart_eyes:. I like to create beautiful structures serverless to provide the user with a great experience in your application. Currently, to create services in cloud(AWS/Azure/GCP) I use **Serverless Framework**.
 
 
-I have also worked with **C#**, **SQL Server**, **PHP**, **MySQL** and others. I like project architecture, writing clean code and applying good practices. 
+I have also worked with **NodeJS**, **Python**, **Java**, **Go** and others. I like project architecture, writing clean code and applying good practices. 
 
 
-The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, **create solutions and impact lives**. :purple_heart:
+The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, be happy and applying knowledge to solve problems, **create solutions and impact lives**. :purple_heart:
 
 
 
