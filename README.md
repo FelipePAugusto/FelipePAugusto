@@ -8,29 +8,29 @@ Currently I'm working with **Laravel** to make Web applications using services A
 But, I also used it in projects: 
 
 <p>
-<img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px"/>
+<img src="https://image.flaticon.com/icons/png/512/226/226770.png" height="35px" alt="Android"/>
 &nbsp;
-<img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px"/>  
+<img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-icon-transparent-png-svg-vector-3.png" height="35px" alt="Kotlin"/>  
 &nbsp;  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px" alt="JavaScript"/>
 &nbsp;  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px" alt="TypeScript"/>
 &nbsp;
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
+<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px" alt="ReactNative"/> 
 &nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="35px" alt="Docker"/>
 &nbsp;
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px" alt="MySQL"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px" alt="PostgreSQL"/> 
 &nbsp;
-<img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" height="35px"/> 
+<img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" height="35px" alt="Redis"/> 
 &nbsp;
-<img src="https://img.icons8.com/color/452/firebase.png" height="35px" />   
+<img src="https://img.icons8.com/color/452/firebase.png" height="35px" alt="Firebase"/>   
 &nbsp;
-<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" />   
+<img src="https://img.icons8.com/color/452/microsoft-sql-server.png" height="35px" alt="SQL Server"/>   
 &nbsp;  
-<img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" />  
+<img src="https://ioiodesign.com/wp-content/uploads/2020/10/Photoshop-logo.png" height="35px" alt="Photoshop"/>  
 </p>
 
 :mortar_board: I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). 
